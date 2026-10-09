@@ -1,0 +1,2 @@
+1|Reading|java|fullstack|Medium|90|DONE
+2|Coding|0|0|Medium|22|PENDING
